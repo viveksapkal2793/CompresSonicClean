@@ -90,8 +90,8 @@ The implementation demonstrates:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/viveksapkal2793/Signal-Recovery-with-Compressed-Sensing.git
-cd Signal-Recovery-with-Compressed-Sensing
+git clone https://github.com/viveksapkal2793/CompresSonicClean.git
+cd CompresSonicClean
 ```
 
 2. Install dependencies:
