@@ -1,4 +1,4 @@
-# Signal Recovery with Compressed Sensing
+# Compressive Sensing and Denoising of Audio Signals
 
 A comprehensive implementation of compressive sensing techniques for audio signal recovery, with enhanced post-processing denoising.
 
