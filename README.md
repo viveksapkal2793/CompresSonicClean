@@ -51,6 +51,7 @@ This will:
 2. Save compressed measurements to compressed
 3. Save recovered audio to recovered
 4. Generate analysis plots for each file
+5. Plots are saved along with compressed audio files in the respective directory.
 
 ### Audio Denoising
 
